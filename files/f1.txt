@@ -1,0 +1,1 @@
+There are many ways in which we can compare two ArrayList objects. For example we may want to check if they are equal, or we may want to know what are the common elements or elements contained in one ArrayList but missing from other.
